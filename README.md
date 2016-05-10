@@ -1,2 +1,7 @@
 # hello-world
 Initial test repo
+
+My name is Charles Johnson, but I go by Charlie. I am a husband and father and have been married 7 years. I have three children, two boys ages twelve and three, and a girl age six. I am from Ohio originally and spent my first seventeen years there. I joined the Army for two tours and then the National Guard for another right out of high school instead of attending college. 
+As an IT professional and enthusiast, I have been able to parley my skills into various career fields, but wanted to have the degree to go with my experience. I received my Associates in CIS from Sinclair in Ohio, and then moved my family to Tuscaloosa Alabama for a “destination” job. It got us here! From there I moved to a larger company near Birmingham in the Healthcare field.  In order to position myself for further promotion, I am going to Columbia for my BS in CIS. 
+I am an avid gamer, I enjoy playing with my children and friends. I play Minecraft with the kids and COD with my friends. My wife and I love to play Cards Against Humanity. I enjoy reading, consuming 14-15 books a month. I used to love to camp, but my dearest wife is not so much the outdoor person I am.  
+I am a Systems Administrator with experience managing networks, server systems, and an Open Source Intelligence specialist. My formal training began while I was still on Active duty for the United States Army. I maintain my effectiveness by continuing education and researching current technologies and trends. I have 15+ years’ experience in the Information Technology field.
